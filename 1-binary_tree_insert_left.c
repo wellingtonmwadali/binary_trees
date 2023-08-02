@@ -11,13 +11,13 @@
  */
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
-	binary_tree_t *new_node
+	binary_tree_t *new_node;
 	/*check if parent node is not new*/
 	if (parent == NULL)
 		return (NULL);
 
 	/* Allocate memory for the new node*/
-	new_node = Tree_node(parent, value);
+	new_node = binary_tree_node(parent, value);
 	if (new_node == NULL)
 		return (NULL);
 
