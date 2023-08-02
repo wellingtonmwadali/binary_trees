@@ -1,15 +1,5 @@
 # Binary Tree README
 
-![Binary Tree](binary_tree.jpg)
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Difference between Binary Tree and Binary Search Tree](#difference-between-binary-tree-and-binary-search-tree)
-- [Time Complexity Gain compared to Linked Lists](#time-complexity-gain-compared-to-linked-lists)
-- [Depth, Height, and Size of a Binary Tree](#depth-height-and-size-of-a-binary-tree)
-- [Traversal Methods in Binary Tree](#traversal-methods-in-binary-tree)
-- [Types of Binary Trees](#types-of-binary-trees)
-
 ## Introduction
 A binary tree is a fundamental data structure used in computer science to organize data in a hierarchical manner. It consists of nodes, where each node can have at most two children, referred to as the left child and the right child. The topmost node of the tree is called the root.
 
