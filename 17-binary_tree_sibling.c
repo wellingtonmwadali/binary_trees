@@ -5,7 +5,7 @@
  *  node in  binary tree.
  * @node: pointer to the node to find the sibling of.
  *
- * Return: If node is NULL or 
+ * Return: If node is NULL or
  * there is no sibling - return  NULL.
  * else  return  a pointer to the sibling.
  */
